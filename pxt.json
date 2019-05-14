@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "cozir.ts"      
+        "cozir.ts"
     ],
     "testFiles": [
         "test.ts"

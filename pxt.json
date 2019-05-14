@@ -1,6 +1,6 @@
 {
     "name": "pxt-beta-cozir",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "beta makecode lts cozir sensor extension",
     "license": "MIT",
     "dependencies": {

@@ -10,9 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "cozir.ts",
-        "_locales/fr/cozir-jsdoc-strings.json",
-        "_locales/fr/cozir-strings.json"        
+        "cozir.ts"      
     ],
     "testFiles": [
         "test.ts"
